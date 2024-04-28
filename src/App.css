@@ -2,10 +2,18 @@
   font-family: "Londrina Solid", sans-serif;
 }
 
+.App .container {
+  background-color: rgba(187, 231, 218, 0.83);
+  box-shadow: 5px 5px 5px rgba(74, 110, 72, 0.7);
+  padding: 20px 20px 40px 20px;
+  margin: 10px auto;
+  max-width: 600px;
+  border-radius: 20px;
+}
+
 .App h1 {
   text-align: center;
   font-weight: 800;
   font-size: 64px;
-  margin-bottom: 10px;
+  margin: 10px 0;
 }
-

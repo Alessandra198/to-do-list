@@ -6,8 +6,8 @@ function App() {
     <div className="App">
       <div className="container">
         <h1>To Do List</h1>
+        <Select />
       </div>
-      <Select />
     </div>
   );
 }

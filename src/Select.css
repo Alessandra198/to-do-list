@@ -4,6 +4,7 @@
 
 .Select h2 {
   font-size: 45px;
+  margin: 0 0 20px 0;
 }
 
 .Select .selection select {
