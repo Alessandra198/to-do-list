@@ -8,9 +8,17 @@
 }
 
 .Select .selection select {
+  background-color: rgba(146, 200, 255, 0.809);
   font-family: "Londrina Solid", sans-serif;
   font-weight: 300;
   padding: 5px;
   font-size: 20px;
   border-radius: 10px;
+  border: 1px solid rgba(146, 200, 255, 0.809);
+  box-shadow: 5px 5px 5px rgba(74, 110, 72, 0.451);
+  transition: all 200ms ease-in-out;
+}
+
+.Select .selection select:hover {
+  background-color: white;
 }
