@@ -1,0 +1,15 @@
+.Select {
+  text-align: center;
+}
+
+.Select h2 {
+  font-size: 45px;
+}
+
+.Select .selection select {
+  font-family: "Londrina Solid", sans-serif;
+  font-weight: 300;
+  padding: 5px;
+  font-size: 20px;
+  border-radius: 10px;
+}
