@@ -10,7 +10,7 @@ export default function Shopping() {
   return (
     <div className="Shopping">
       <h3>Here's your Grocery Shopping list🛒😉</h3>
-      <form className="checks">
+      <form className="checksTypeOne">
         <Carbo />
         <FruitsandVegetables />
         <DrinksAndOthers />
