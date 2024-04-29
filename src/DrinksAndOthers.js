@@ -3,83 +3,77 @@ import React from "react";
 export default function DrinksAndOthers() {
   return (
     <div className="check">
-      <h4>Hygiene products</h4>
+      <h4>Drinks and Others</h4>
       <div>
         <label>
           <input type="checkbox" />
-          Conditioner
+          Beers
         </label>
       </div>
       <div>
         <label>
           <input type="checkbox" />
-          Dental floss
+          Coca Cola
         </label>
       </div>
       <div>
         <label>
           <input type="checkbox" />
-          Dish soap
+          Coffee
         </label>
       </div>
       <div>
         <label>
           <input type="checkbox" />
-          Hair Mask
+          Fanta
         </label>
       </div>
       <div>
         <label>
           <input type="checkbox" />
-          Hand soap
+          Getorade
         </label>
       </div>
       <div>
         <label>
           <input type="checkbox" />
-          Kitchen Paper
+          Olive Oil
         </label>
       </div>
       <div>
         <label>
           <input type="checkbox" />
-          Laundry detergent
+          Pepsi
         </label>
       </div>
       <div>
         <label>
           <input type="checkbox" />
-          Pads
+          Red Bull
         </label>
       </div>
       <div>
         <label>
           <input type="checkbox" />
-          Shampoo
+          Tea
         </label>
       </div>
       <div>
         <label>
           <input type="checkbox" />
-          Softener
+          Vinegar
         </label>
       </div>
       <div>
         <label>
           <input type="checkbox" />
-          Toilet Paper
+          Water
         </label>
       </div>
       <div>
         <label>
           <input type="checkbox" />
-          Toothbrush
-        </label>
-      </div>
-      <div>
-        <label>
-          <input type="checkbox" />
-          Toothpaste
+          Wine
         </label>
       </div>
     </div>
