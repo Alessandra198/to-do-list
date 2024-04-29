@@ -1,8 +1,14 @@
 .Shopping h3 {
     margin-top: 10px;
+    font-size: 24px;
+}
+
+.Shopping h4 {
+  font-size: 18px;
 }
 
 .Shopping .checks {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
 }
+
