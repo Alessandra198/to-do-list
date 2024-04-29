@@ -1,6 +1,6 @@
 .Shopping h3 {
-    margin-top: 10px;
-    font-size: 24px;
+  margin: 10px;
+  font-size: 24px;
 }
 
 .Shopping h4 {
@@ -17,4 +17,3 @@
   grid-template-columns: 1fr 1fr;
   margin-top: 10px;
 }
-
