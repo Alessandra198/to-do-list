@@ -4,6 +4,7 @@ import HygieneProducts from "./HygieneProducts";
 import Carbo from "./Carbo";
 import FruitsandVegetables from "./FruitsAndVegetables";
 import DrinksAndOthers from "./DrinksAndOthers";
+import Proteins from "./Proteins";
 
 export default function Shopping() {
   return (
@@ -13,7 +14,10 @@ export default function Shopping() {
         <Carbo />
         <FruitsandVegetables />
         <DrinksAndOthers />
+      </form>
+      <form className="checksTypeTwo">
         <HygieneProducts />
+        <Proteins />
       </form>
     </div>
   );
