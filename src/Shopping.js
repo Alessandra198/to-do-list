@@ -9,7 +9,7 @@ import Proteins from "./Proteins";
 export default function Shopping() {
   return (
     <div className="Shopping">
-      <h3>Here's your Grocery Shopping list🛒😉</h3>
+      <h3>Here's your Grocery Shopping CheckList🛒😉</h3>
       <form className="checksTypeOne">
         <Carbo />
         <FruitsandVegetables />
