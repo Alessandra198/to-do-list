@@ -7,6 +7,12 @@ export default function General() {
       <div>
         <label>
           <input type="checkbox" />
+          Clean switches
+        </label>
+      </div>
+      <div>
+        <label>
+          <input type="checkbox" />
           Declutter
         </label>
       </div>
@@ -19,7 +25,19 @@ export default function General() {
       <div>
         <label>
           <input type="checkbox" />
+          Empty trash bin(s)
+        </label>
+      </div>
+      <div>
+        <label>
+          <input type="checkbox" />
           Mop
+        </label>
+      </div>
+      <div>
+        <label>
+          <input type="checkbox" />
+          Restock
         </label>
       </div>
       <div>
@@ -37,7 +55,7 @@ export default function General() {
       <div>
         <label>
           <input type="checkbox" />
-          Wash the windows
+          Wash windows and doors
         </label>
       </div>
     </div>

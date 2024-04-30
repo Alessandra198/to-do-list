@@ -1,43 +1,43 @@
 import React from "react";
 
-export default function Kitchen() {
+export default function Bathroom() {
   return (
     <div className="check">
-      <h4>Kitchen</h4>
+      <h4>Bathroom</h4>
       <div>
         <label>
           <input type="checkbox" />
-          Clean the stove
+          Clean the mirror(s)
         </label>
       </div>
       <div>
         <label>
           <input type="checkbox" />
-          Put the tablecloth and cloths to wash
+          Clean the sink(s)
         </label>
       </div>
       <div>
         <label>
           <input type="checkbox" />
-          Throw away expired or spoiled foods
+          Disinfect
         </label>
       </div>
       <div>
         <label>
           <input type="checkbox" />
-          Wash inside the fridge and the freezer
+          Refill soap, toilet papers and air freshener
         </label>
       </div>
       <div>
         <label>
           <input type="checkbox" />
-          Wash the dishes
+          Wash the shower (dry it) and the bath tub
         </label>
       </div>
       <div>
         <label>
           <input type="checkbox" />
-          Wipe the kitchen counter
+          Wash toilet and toilet seat (and bidet)
         </label>
       </div>
     </div>
