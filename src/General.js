@@ -34,6 +34,12 @@ export default function General() {
           Vacuum
         </label>
       </div>
+      <div>
+        <label>
+          <input type="checkbox" />
+          Wash the windows
+        </label>
+      </div>
     </div>
   );
 }
