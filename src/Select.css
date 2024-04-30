@@ -22,3 +22,28 @@
 .Select .selection select:hover {
   background-color: white;
 }
+
+.Select h3 {
+  margin: 10px;
+  font-size: 24px;
+}
+
+.Select .checksTypeOne {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+.Select .checksTypeTwo {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  margin-top: 10px;
+}
+
+.Select .checks {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+.Select .check {
+  margin: 10px;
+}

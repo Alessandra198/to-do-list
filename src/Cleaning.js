@@ -1,5 +1,4 @@
 import React from "react";
-import "./Cleaning.css";
 import General from "./General";
 import Kitchen from "./Kitchen";
 import Bathroom from "./Bathroom";

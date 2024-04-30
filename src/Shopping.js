@@ -1,5 +1,4 @@
 import React from "react";
-import "./Shopping.css";
 import HygieneProducts from "./HygieneProducts";
 import Carbo from "./Carbo";
 import FruitsandVegetables from "./FruitsAndVegetables";

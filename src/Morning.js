@@ -1,5 +1,9 @@
 import React from "react";
 
 export default function Morning() {
-  return <div>Hello from Morning🌞</div>;
+  return (
+    <div>
+      <h3>Here's your Morning Routine CheckList🌞😉</h3>
+    </div>
+  );
 }
