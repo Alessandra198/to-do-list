@@ -7,6 +7,12 @@ export default function Bathroom() {
       <div>
         <label>
           <input type="checkbox" />
+          Clean the make-up station
+        </label>
+      </div>
+      <div>
+        <label>
+          <input type="checkbox" />
           Clean the mirror(s)
         </label>
       </div>

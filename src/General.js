@@ -19,6 +19,12 @@ export default function General() {
       <div>
         <label>
           <input type="checkbox" />
+          Do the laundry
+        </label>
+      </div>
+      <div>
+        <label>
+          <input type="checkbox" />
           Dust
         </label>
       </div>
@@ -31,7 +37,19 @@ export default function General() {
       <div>
         <label>
           <input type="checkbox" />
+          Make the bed
+        </label>
+      </div>
+      <div>
+        <label>
+          <input type="checkbox" />
           Mop
+        </label>
+      </div>
+      <div>
+        <label>
+          <input type="checkbox" />
+          Put away your washed clothes
         </label>
       </div>
       <div>
@@ -44,6 +62,12 @@ export default function General() {
         <label>
           <input type="checkbox" />
           Sweep
+        </label>
+      </div>
+      <div>
+        <label>
+          <input type="checkbox" />
+          Tidy up
         </label>
       </div>
       <div>

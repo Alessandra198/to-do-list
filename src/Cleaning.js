@@ -9,9 +9,9 @@ export default function Cleaning() {
     <div className="Cleaning">
       <h3>Here's your Cleaning CheckList🧽😉</h3>
       <form className="checks">
+        <Bathroom />
         <General />
         <Kitchen />
-        <Bathroom />
       </form>
     </div>
   );
