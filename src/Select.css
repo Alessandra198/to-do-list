@@ -44,6 +44,10 @@
   grid-template-columns: 1fr 1fr 1fr;
 }
 
-.Select .check {
+.Select .Cleaning .check {
   margin: 10px;
+}
+
+.Select .Shopping .check {
+  font-size: 20px;
 }
