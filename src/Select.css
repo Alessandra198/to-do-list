@@ -48,6 +48,8 @@
   margin: 10px;
 }
 
-.Select .Shopping .check {
+.Select .Shopping .check,
+.Select .Morning .check,
+.Select .Night .check {
   font-size: 20px;
 }
