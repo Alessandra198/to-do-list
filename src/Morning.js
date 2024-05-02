@@ -58,6 +58,18 @@ export default function Morning() {
           SPF cream
         </label>
       </div>
+      <div>
+        <label>
+          <input type="checkbox" />
+          Have a breakfast
+        </label>
+      </div>
+      <div>
+        <label>
+          <input type="checkbox" />
+          Start your day!🌞
+        </label>
+      </div>
     </div>
   );
 }
